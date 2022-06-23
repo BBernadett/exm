@@ -81,7 +81,7 @@ button {
     margin-top: 56px;
 }
 .maingrid {
-    background: url('/gallery/shoe.png') top center;
+    background: url('gallery/shoe.png') top center;
     /*height: 100%;*/
 }
 .grid {
@@ -120,7 +120,7 @@ img {
     text-align: center;
 }
 .pic {
-    background: url('/gallery/pic2.jpg') top center no-repeat;
+    background: url('gallery/pic2.jpg') top center no-repeat;
     height: 656px;
     background-size: cover;
 }
@@ -137,7 +137,7 @@ img {
     color: #a92028;
 }
 .det {
-    background: url('/gallery/concrete-wall.png');
+    background: url('gallery/concrete-wall.png');
     height: 310px;
 }
 .det div p {
