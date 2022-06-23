@@ -15,7 +15,7 @@ body {
     opacity: .9;
 }
 header {
-    background: url('gallery\hero2.jpg') top center;
+    background: url('/gallery/hero2.jpg') top center;
     height: 51rem;
     width: auto;
 }
