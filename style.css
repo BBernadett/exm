@@ -112,7 +112,7 @@ img {
 .grid  p {
     text-align: center;
     padding: 5px;
-    font-size: smaller;
+    /*font-size: smaller;*/
 } 
 .grid a {
     color: #a92028;
@@ -140,9 +140,9 @@ img {
     background: url('gallery/concrete-wall.png');
     height: 310px;
 }
-.det div p {
+/*.det div p {
     font-size: smaller;
-}
+}*/
 .grid3 {
     display: grid;
     grid-template-columns: repeat(6, 1fr);
@@ -399,10 +399,10 @@ img {
     display: inline-block;
     margin: 0 15px;
    }
-footer{
+/*footer{
     font-size: 16px;
-    /*height: 100%;*/
-}
+    height: 100%;
+}*/
 .foot {
     flex-direction: column;
 }
@@ -545,10 +545,10 @@ img {
 .det {
     max-width: 100%;
 }
-footer{
+/*footer{
     font-size: 16px;
     height: 100%;
-}
+}*/
 .foot {
     flex-direction: column;
 }
