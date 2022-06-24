@@ -443,13 +443,13 @@ footer{
 .spn {
     text-align: left;
 }
-.foot p, form, img {
+.foot p, form, .ft-img {
     display: none;
 }
 .contact:hover p {
     display: block;
 }
-.insta:hover img {
+.insta:hover .ft-img {
     display: block;
 }
 .form:hover p {
