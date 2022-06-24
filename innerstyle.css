@@ -1,0 +1,24 @@
+.wrapper {
+    background: url('gallery/nyereg.png');
+}
+th {
+    text-align: left;
+}
+td:nth-of-type(2) {
+    text-align: right;
+}
+table {
+    width: 45%;
+}
+td {
+    border-bottom: 1px dashed #333;
+}
+#price, #price2 {
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.tab1, .tab2, .tab3, .tab4 {
+    display: contents;
+}
+
